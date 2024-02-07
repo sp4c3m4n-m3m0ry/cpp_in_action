@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g CMakeFiles/Calculator.dir/main.cpp.o CMakeFiles/Calculator.dir/parser.cpp.o CMakeFiles/Calculator.dir/scanner.cpp.o CMakeFiles/Calculator.dir/list.cpp.o CMakeFiles/Calculator.dir/functiontable.cpp.o CMakeFiles/Calculator.dir/symboltable.cpp.o -o Calculator 

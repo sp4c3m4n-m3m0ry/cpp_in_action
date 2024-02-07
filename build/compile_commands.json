@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/p3ngw1n/projects/Example_In_Action/build",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/Calculator.dir/main.cpp.o -c /home/p3ngw1n/projects/Example_In_Action/main.cpp",
+  "file": "/home/p3ngw1n/projects/Example_In_Action/main.cpp",
+  "output": "CMakeFiles/Calculator.dir/main.cpp.o"
+},
+{
+  "directory": "/home/p3ngw1n/projects/Example_In_Action/build",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/Calculator.dir/parser.cpp.o -c /home/p3ngw1n/projects/Example_In_Action/parser.cpp",
+  "file": "/home/p3ngw1n/projects/Example_In_Action/parser.cpp",
+  "output": "CMakeFiles/Calculator.dir/parser.cpp.o"
+},
+{
+  "directory": "/home/p3ngw1n/projects/Example_In_Action/build",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/Calculator.dir/scanner.cpp.o -c /home/p3ngw1n/projects/Example_In_Action/scanner.cpp",
+  "file": "/home/p3ngw1n/projects/Example_In_Action/scanner.cpp",
+  "output": "CMakeFiles/Calculator.dir/scanner.cpp.o"
+},
+{
+  "directory": "/home/p3ngw1n/projects/Example_In_Action/build",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/Calculator.dir/list.cpp.o -c /home/p3ngw1n/projects/Example_In_Action/list.cpp",
+  "file": "/home/p3ngw1n/projects/Example_In_Action/list.cpp",
+  "output": "CMakeFiles/Calculator.dir/list.cpp.o"
+},
+{
+  "directory": "/home/p3ngw1n/projects/Example_In_Action/build",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/Calculator.dir/functiontable.cpp.o -c /home/p3ngw1n/projects/Example_In_Action/functiontable.cpp",
+  "file": "/home/p3ngw1n/projects/Example_In_Action/functiontable.cpp",
+  "output": "CMakeFiles/Calculator.dir/functiontable.cpp.o"
+},
+{
+  "directory": "/home/p3ngw1n/projects/Example_In_Action/build",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/Calculator.dir/symboltable.cpp.o -c /home/p3ngw1n/projects/Example_In_Action/symboltable.cpp",
+  "file": "/home/p3ngw1n/projects/Example_In_Action/symboltable.cpp",
+  "output": "CMakeFiles/Calculator.dir/symboltable.cpp.o"
+}
+]
